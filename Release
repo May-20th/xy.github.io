@@ -5,5 +5,5 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: XY's Cydia Repository
+Description: XY's个人越狱源，仅供娱乐！
 Icon: file://CydiaIcon.png
