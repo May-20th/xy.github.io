@@ -265,7 +265,7 @@ Installed-Size: 2608
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.xhshook
 Replaces: com.xx.xhshook
-Filename: debs/小红书净化_1.2.0-arm64.deb
+Filename: debs/xx小红书净化_1.2.0-arm64.deb
 Size: 1786192
 MD5sum: 44a6409250d05a930472b79a42577270
 SHA1: 7e9c483eb4cd980a677526154a58e186a70ef292
