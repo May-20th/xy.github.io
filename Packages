@@ -156,6 +156,22 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: com.tiaotiao.wcchannelsdownloader
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/微信视频号下载WCChannelsDownloader_1.6-arm64.deb
+Size: 893946
+MD5sum: a39453f8200e963281c75deafdd05184
+SHA1: 8b4678bb362fe073f5a0ba0f575200e630b393bc
+SHA256: 4804e12d29efd9e2bd541e73b932ec8fad61b11ec980b2ad88d19ed2ba6448ea
+Section: Tweaks
+Description: 微信视频号下载
+Author: TiaoTiao
+Name: WCChannelsDownloader
+
 Package: com.tiaotiao.wechatemoticontoselfie
 Version: 1.2
 Architecture: iphoneos-arm64
