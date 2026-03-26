@@ -150,19 +150,3 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
-Package: com.thefool.ccaudioplay
-Version: 0.0.1-94+debug
-Architecture: iphoneos-arm64
-Maintainer: thefool
-Installed-Size: 29540
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/播放器arm64.deb
-Size: 25090780
-MD5sum: 7e22abf9f62e77bf79371bf5f82c70ef
-SHA1: 8b63dd05af342c1cab579c3e279b17d07a1098eb
-SHA256: a61f01e9709a5875239b0c3f0902d685ee819896f8536e9ec414db106541a81e
-Section: Tweaks
-Description: 播放器美化 不支IOS15
-Author: thefool
-Name: CCAudioPlay
-
