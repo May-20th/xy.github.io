@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 540
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/ScreenShell Pro_5.2.0-61_无根.deb
+Filename: debs/com.axs.screenshellpro_5.2.0-61_rootless.deb
 Size: 51728
 MD5sum: 6ae4d8266a96dcd5264efc6d33c813a6
 SHA1: 629fc1fee0fc7288ad0d2beec4b3ba4c88e5f7ea
