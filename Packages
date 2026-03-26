@@ -54,7 +54,7 @@ Architecture: iphoneos-arm64
 Maintainer: TiaoTiao
 Installed-Size: 104
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debs/WeChatEmotionToSelfie表情转自拍_1.2_iphoneos-arm64.deb
+Filename: debs/WeChatEmotionToSelfie表情转自拍_1.2-arm64.deb
 Size: 24134
 MD5sum: de4cfff9561acbec2095f16699dad1f4
 SHA1: 8a4a36c123043f02bb764387fcc98931f39e4824
