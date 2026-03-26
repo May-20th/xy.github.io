@@ -70,3 +70,19 @@ Icon: https://www.susubaby.top/json/ReachPlayer/icon.png
 Name: ReachPlayer音乐专辑
 Sileodepiction: https://www.susubaby.top/json/ReachPlayer/js.json
 
+Package: netskao.alipayhooks
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/netskao_alipayhooks_1_1_2.deb
+Size: 70514
+MD5sum: 4f58b9cef90bccb9bb7c4fdaea8a670f
+SHA1: 2d44ac767fcf7a7be483217e67bf7aea8a4a062a
+SHA256: 32d474630be594e3506908e26484005348c812c5748a7db5950ada6ec4ede74a
+Section: Netskao-Tweaks
+Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
+Author: Netskao
+Name: 支付宝 Hooks
+
