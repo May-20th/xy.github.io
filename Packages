@@ -20,7 +20,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 2088
 Depends: mobilesubstrate
-Filename: debs/reachplayer音乐专辑_4.0.3-arm64.deb
+Filename: debs/ReachPlayer音乐专辑_4.0.3-arm64.deb
 Size: 1096182
 MD5sum: 97c9cbfc9c1a4aaf2d0555572cfb22c1
 SHA1: cc6a17db8830d5230c270f3fbff60515dbdfc42f
