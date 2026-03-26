@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: 苏苏
 Installed-Size: 168
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/相册精简_1.0.0-arm64.deb
+Filename: debs/SuPhotos相册精简_1.0.0-arm64.deb
 Size: 3572
 MD5sum: 15876d7e90c6c0442e3cb0da12b13a8c
 SHA1: 48340c8563e703b16df105e0299e800d0544d5a6
