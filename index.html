@@ -2,46 +2,45 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>My iOS Repo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>May-20th's Repo</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             max-width: 600px;
-            margin: 50px auto;
+            margin: 100px auto;
             padding: 0 20px;
-            line-height: 1.6;
-            color: #333;
+            text-align: center;
+            background: #f2f2f7;
         }
         h1 {
+            font-size: 32px;
             color: #007aff;
-            font-size: 2.5em;
-            margin-bottom: 0.2em;
         }
-        .repo-link {
-            display: block;
-            margin: 10px 0;
-            font-size: 1.2em;
-            color: #007aff;
+        p {
+            font-size: 17px;
+            color: #333;
+        }
+        .btn {
+            display: inline-block;
+            padding: 14px 28px;
+            margin: 10px;
+            background: #007aff;
+            color: white;
+            font-size: 18px;
+            border-radius: 12px;
             text-decoration: none;
-        }
-        .repo-link:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 30px;
-            font-size: 0.9em;
-            color: #666;
+            font-weight: 600;
         }
     </style>
 </head>
 <body>
     <h1>May-20th's Repo</h1>
-    <p>欢迎使用我的 iOS 越狱软件源 🎉</p>
-    <a class="repo-link" href="cydia://url/https://may-20th.github.io/repo/">Add to Cydia</a>
-    <a class="repo-link" href="sileo://url/https://may-20th.github.io/repo/">Add to Sileo</a>
-    <a class="repo-link" href="zebra://url/https://may-20th.github.io/repo/">Add to Zebra</a>
-    <div class="footer">
-        Powered by GitHub Pages &amp; Sileo
-    </div>
+    <p>点击下方按钮一键添加到 Sileo</p>
+
+    <a class="btn" href="sileo://add/https://may-20th.github.io/repo/">
+        添加到 Sileo
+    </a>
+
 </body>
 </html>
