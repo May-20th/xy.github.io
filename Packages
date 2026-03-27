@@ -703,6 +703,25 @@ Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.ddmcnoads/icon.png
 Name: 叮咚买菜去启动广告
 Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.ddmcnoads.json
 
+Package: com.swing.dpnoads
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing百度网盘净化_1.2.0-arm64.deb
+Size: 17530
+MD5sum: db73251a8d0fc20aaef11544dd78bd03
+SHA1: 928cb729e5e936ac4df245df50555ad6d748aacb
+SHA256: f28d1a5196109a913dfd8cb83bd0d2cd94fa73f6a455a95c1566a584da70c153
+Section: Tweaks
+Description: 百度网盘去广告，优化文件传输页面使用系统App来打开文件!
+Author: SWING
+Depiction: https://repo.swing1993.cn/depictions/index.html?packageId=com.swing.dpnoads
+Icon: https://repo.swing1993.cn/api/packageinfo/com.swing.dpnoads/icon.png
+Name: 百度网盘净化
+Sileodepiction: https://repo.swing1993.cn/depictions/native/com.swing.dpnoads.json
+
 Package: com.swing.eleme
 Version: 1.0.5
 Architecture: iphoneos-arm64
