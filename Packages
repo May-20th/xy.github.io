@@ -156,7 +156,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs/swing百度贴吧净化_1.0.8-arm64.deb
+Filename: debs/Apple百度贴吧净化_1.0.8-arm64.deb
 Size: 20242
 MD5sum: 46aaf45f6072fd56f0b162bfe6e5969f
 SHA1: 605d18a330be11d881108d3f53972a65a2419dbd
@@ -820,7 +820,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: debs/Apple百度贴吧净化_1.0.7-arm64.deb
+Filename: debs/swing百度贴吧净化_1.0.7-arm64.deb
 Size: 18102
 MD5sum: 6b4867559dd6d2a21d97a67726d66bcc
 SHA1: 71c994959ee2ef7663eb51cb19f07caed2807d18
