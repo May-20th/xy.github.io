@@ -99,7 +99,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing拼多多净化_1.0.0-arm64.deb
+Filename: debs/Apple拼多多净化_1.0.0-arm64.deb
 Size: 11582
 MD5sum: 2e3f3ed0b00a8f2e3a501bdf653d3bfb
 SHA1: ce4ca2cc244804eecf0de5ea8ab28b499f59e859
@@ -118,7 +118,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing淘宝净化_1.0.0-arm64.deb
+Filename: debs/Apple淘宝净化_1.0.0-arm64.deb
 Size: 16104
 MD5sum: d4d8cc16b1a62e8fa0d28e8f617046f5
 SHA1: e3702886faf25d03352ce2479927332554ac3fc6
@@ -137,7 +137,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing淘宝净化_1.1.0-arm64.deb
+Filename: debs/Apple淘宝净化_1.1.0-arm64.deb
 Size: 12298
 MD5sum: 2ce95da8093ee371c6a60791e588d7ad
 SHA1: 490fa948a452b770caa5cd122f48c60c39f9c1f9
@@ -601,7 +601,7 @@ Architecture: iphoneos-arm64
 Maintainer: Link
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing抖音净化_1.0.5-arm64.deb
+Filename: debs/link抖音净化_1.0.5-arm64.deb
 Size: 73768
 MD5sum: 47318d9de6a5812239164259f7b0a4f3
 SHA1: 5a939c312b9a14f14b2be2ad4b998b562e689463
