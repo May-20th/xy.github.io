@@ -213,7 +213,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing微信净化_1.2.0-arm64.deb
+Filename: debs/Apple微信净化_1.2.0-arm64.deb
 Size: 33346
 MD5sum: 837d923461d198d2318ed501a607ba06
 SHA1: 87fb2c1f4f953c9cf87fb7208e0cc2c625b76115
@@ -229,7 +229,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 252
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing微信净化_1.2.1-arm64.deb
+Filename: debs/Apple微信净化_1.2.1-arm64.deb
 Size: 30140
 MD5sum: cfaa08fefc13ce1f2da910c6f97f7f73
 SHA1: d12c0a4c07b062725db30c3c607ab984fce57ac8
