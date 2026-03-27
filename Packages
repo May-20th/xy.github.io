@@ -23,7 +23,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing_App Store净化_1.0.0-arm64.deb
+Filename: debs/Apple_App Store净化_1.0.0-arm64.deb
 Size: 4376
 MD5sum: 6ceee26792188084734338cb6e80a909
 SHA1: 62779e0c0a193a2e616e1e297867fe854776be05
