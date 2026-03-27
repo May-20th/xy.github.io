@@ -36,6 +36,25 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 地震预警解锁-Rootless
 Sponsor: 搬运工
 
+Package: byg.iosios.net.zhifubaobs
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/ylr支付宝步数_1.5.5-arm64e.deb
+Size: 23762
+MD5sum: 8f522868ef3ad577c51e1001a0aee473
+SHA1: 785baa82512fd07e866f1e6aee5b3e9382961e55
+SHA256: 1c35822e9129194f665c493a8461a6164078db0609a7b33b4e8a22542941712c
+Section: 软件破解
+Description: 支付宝首页，长按任一底栏就可以打开插件设置，更新后需重新设置！插件没效果的解除对支付宝的越狱屏蔽检测
+Author: ylr
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 支付宝修改步数
+Sponsor: 搬运工
+
 Package: com.apple.appstorenoads
 Version: 1.0.0
 Architecture: iphoneos-arm64
