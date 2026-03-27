@@ -17,6 +17,63 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 地震预警解锁-Rootless
 Sponsor: 搬运工
 
+Package: com.apple.appstorenoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing_App Store净化_1.0.0-arm64.deb
+Size: 4376
+MD5sum: 6ceee26792188084734338cb6e80a909
+SHA1: 62779e0c0a193a2e616e1e297867fe854776be05
+SHA256: 4998c0d59ca5a553e6a8f21850d86d0907a6eb07f2010ec6aeecc956faa7c0b3
+Section: Tweaks
+Description: AppStoreNoAds!
+Author: Apple
+Depiction: https://tweak.abox.plus/depictions/index.html?packageId=com.apple.appstorenoads
+Icon: https://tweak.abox.plus/api/packageinfo/com.apple.appstorenoads/icon.png
+Name: AppStoreNoAds
+Sileodepiction: https://tweak.abox.plus/depictions/native/com.apple.appstorenoads.json
+
+Package: com.apple.bilibili
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing哔哩哔哩净化_1.2.3-arm64.deb
+Size: 22774
+MD5sum: f70bac7871d503217623ef9cc09bb8a6
+SHA1: 5b8f9ac8a16b1f9ecc0dea47ac6a84e40a4afea6
+SHA256: 6596604f0c3586d2f1e3ebe39a50cc4edc0804e4d2d1a8c53f8ada8f08bfd625
+Section: Tweaks
+Description: 哔哩哔哩净化相关页面与广告。无设置项，安装即可生效。
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.bilibili
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.bilibili/icon.png
+Name: 哔哩哔哩净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.bilibili.json
+
+Package: com.apple.neteasemusic
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing网易云净化_1.0.0-arm64.deb
+Size: 18316
+MD5sum: f51bffcaf784b7724dedd33c7d3da553
+SHA1: b6b3e912c93d8b4c526b23d6f32340c0db73ec20
+SHA256: ed1fbdb7be323c7c556f3e7fe2307479c843eb1dea7da21bb0512619e7abb25c
+Section: Tweaks
+Description: 净化网易云音乐的广告！
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.neteasemusic
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.neteasemusic/icon.png
+Name: 网易云音乐
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.neteasemusic.json
+
 Package: com.apple.purejd
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -55,6 +112,25 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.purepdd/icon.png
 Name: 拼多多净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.purepdd.json
 
+Package: com.apple.puretaobao
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing淘宝净化_1.0.0-arm64.deb
+Size: 16104
+MD5sum: d4d8cc16b1a62e8fa0d28e8f617046f5
+SHA1: e3702886faf25d03352ce2479927332554ac3fc6
+SHA256: c50c6634ca5a34af1720f8f86f0c6147591b10137fd49b10d31190c222ae1d4f
+Section: Tweaks
+Description: 淘宝净化，最高支持v10.39.30!
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.puretaobao
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.puretaobao/icon.png
+Name: 淘宝净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.puretaobao.json
+
 Package: com.apple.puretaobao.new
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -74,6 +150,25 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.puretaobao.new/icon.png
 Name: 淘宝净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.puretaobao.new.json
 
+Package: com.apple.puretieba
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 236
+Depends: mobilesubstrate
+Filename: debs/swing百度贴吧净化_1.0.8-arm64.deb
+Size: 20242
+MD5sum: 46aaf45f6072fd56f0b162bfe6e5969f
+SHA1: 605d18a330be11d881108d3f53972a65a2419dbd
+SHA256: 444ceec49d4514b594604b3f2afcb6942172d0ec78396ebfa8d88c6f0e7996cf
+Section: Tweaks
+Description: 百度贴吧去广告插件
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.puretieba/icon.png
+Name: 百度贴吧净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.puretieba.json
+
 Package: com.apple.purexhs
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -92,6 +187,25 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.pure
 Icon: https://repo.abox.plus/api/packageinfo/com.apple.purexhs/icon.png
 Name: 小红书净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.purexhs.json
+
+Package: com.apple.purexmly
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/swing喜马拉雅净化_1.0.1-arm64.deb
+Size: 25710
+MD5sum: c1c31503c5a00f0a0d7791dbd78ab0e2
+SHA1: 83d5329c33494f6c592b329c4b56e911bdee2733
+SHA256: 502ab4a174c2b89e5c7d7aa8ff91c86fa1b0405c726aeb8167664b12ebce3a57
+Section: Tweaks
+Description: 净化喜马拉雅，解锁部分VIP资源!
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.purexmly
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.purexmly/icon.png
+Name: 喜马拉雅净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.purexmly.json
 
 Package: com.apple.wechat.noads
 Version: 1.2.0
