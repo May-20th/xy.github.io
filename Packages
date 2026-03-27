@@ -207,6 +207,25 @@ Icon: https://repo.abox.plus/api/packageinfo/com.apple.purexmly/icon.png
 Name: 喜马拉雅净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.purexmly.json
 
+Package: com.apple.qqmusic
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Apple_QQ音乐净化_1.0.0-arm64.deb
+Size: 18516
+MD5sum: 6291886df297ac85a797cff0578c0684
+SHA1: a5683441c3e89708ad3dc9efac4def58a6804d28
+SHA256: 9f8e9fad677d254f2c01932a359b174d76691bc57342c0a42b199684eefb1f45
+Section: Tweaks
+Description: 仅供测试严禁商用，请于下载后24小时内彻底删除！QQ音乐精简广告，解锁至臻音质2.0!
+Author: Apple
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.apple.qqmusic
+Icon: https://repo.abox.plus/api/packageinfo/com.apple.qqmusic/icon.png
+Name: QQ音乐净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.apple.qqmusic.json
+
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
