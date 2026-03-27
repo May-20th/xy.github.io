@@ -245,7 +245,7 @@ Architecture: iphoneos-arm64
 Maintainer: Apple
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs/swing微博净化_1.2.5-arm64.deb
+Filename: debs/Apple微博净化_1.2.5-arm64.deb
 Size: 27212
 MD5sum: f9304871ff18b75cf589dc065397585e
 SHA1: d423941d8d5452f7ccbc2e286f3eddc6233d6a0b
