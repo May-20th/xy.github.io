@@ -43,7 +43,7 @@ Maintainer: 搬运工
 Installed-Size: 204
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/ylr支付宝步数_1.5.5-arm64e.deb
+Filename: debs/ylr.支付宝步数_1.5.5-arm64e.deb
 Size: 23762
 MD5sum: 8f522868ef3ad577c51e1001a0aee473
 SHA1: 785baa82512fd07e866f1e6aee5b3e9382961e55
@@ -817,7 +817,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing饿了么净化_1.0.5-arm64.deb
+Filename: debs/swing.饿了么净化_1.0.5-arm64.deb
 Size: 13326
 MD5sum: d78ff8b883a8cff6e01dd16fe6abad6c
 SHA1: f074f4fddf4607f57e6e1696298af26f1ca624bc
@@ -871,7 +871,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing米家净化_1.0.0-arm64.deb
+Filename: debs/swing.米家净化_1.0.0-arm64.deb
 Size: 8018
 MD5sum: 33b021197c64bfeb194febd2ed6731b6
 SHA1: f441f1e69fb140abee901de5cfedad60dcdefeec
@@ -890,7 +890,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/swing网易云净化_0.0.1-arm64.deb
+Filename: debs/swing.网易云净化_0.0.1-arm64.deb
 Size: 11388
 MD5sum: f8d4325a4872e441e464348fbe447c9b
 SHA1: e0108fb9c06ed347cd0604f4cda05a37b755f9e0
@@ -928,7 +928,7 @@ Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: debs/swing百度贴吧净化_1.0.7-arm64.deb
+Filename: debs/swing.百度贴吧净化_1.0.7-arm64.deb
 Size: 18102
 MD5sum: 6b4867559dd6d2a21d97a67726d66bcc
 SHA1: 71c994959ee2ef7663eb51cb19f07caed2807d18
@@ -1090,7 +1090,7 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/wkk米家优化_1.0-1-arm64.deb
+Filename: debs/wkk.米家优化_1.0-1-arm64.deb
 Size: 10920
 MD5sum: e003d3e491ab8066816a92619636315b
 SHA1: d632162faba7f8fc05370ccd51dfdc1d4cc5cdef
@@ -1123,7 +1123,7 @@ Architecture: iphoneos-arm64
 Maintainer: wkk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/wkk美团优化_1.0-1-arm64.deb
+Filename: debs/wkk.美团优化_1.0-1-arm64.deb
 Size: 13768
 MD5sum: a8a1e01e73e0b7d492afe15971a38a19
 SHA1: 111547d5cd624dc1b736c0db5e26df3a32106b7f
@@ -1139,7 +1139,7 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 900
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/xx高德地图净化_1.0.4-arm64.deb
+Filename: debs/xx.高德地图净化_1.0.4-arm64.deb
 Size: 357780
 MD5sum: c89a41bc384219f4cd73ce233a935b3d
 SHA1: 780ea948357fb172a62aca902cf6062ff577148d
@@ -1155,7 +1155,7 @@ Architecture: iphoneos-arm64
 Maintainer: 夜辰
 Installed-Size: 428
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/yechen灵动岛进度环_1.1.0-arm64.deb
+Filename: debs/yechen.灵动岛进度环_1.1.0-arm64.deb
 Size: 46174
 MD5sum: e35e592526bbfb92f415b2c14c0b96db
 SHA1: 2871756270477b8391af51c7747eecf3bbd6f4bb
@@ -1191,7 +1191,7 @@ Installed-Size: 2608
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.xhshook
 Replaces: com.xx.xhshook
-Filename: debs/xx小红书净化_1.2.0-arm64.deb
+Filename: debs/xx.小红书净化_1.2.0-arm64.deb
 Size: 1786192
 MD5sum: 44a6409250d05a930472b79a42577270
 SHA1: 7e9c483eb4cd980a677526154a58e186a70ef292
